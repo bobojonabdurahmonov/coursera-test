@@ -1,2 +1,2 @@
 # coursera-test
-coursera test repository
+bu repository courserada html va css testi uchun
